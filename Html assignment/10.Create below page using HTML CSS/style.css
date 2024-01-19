@@ -1,0 +1,201 @@
+*{
+    margin: 2px;
+    padding: 0;
+}
+body{
+    /* display: flex */
+    margin: 50px 50px 50px 50px;
+    
+  
+}
+.title{
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(109, 155, 242);
+    color: red;
+   
+}
+.container{
+    border: 2px solid black;
+    margin-top: 20px;
+    background-color: rgb(154, 241, 241);
+}
+.container2 .title1{
+    color: red;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.container2 .input1{
+    margin-top: 5px;
+    padding-left: 340px;
+    
+}
+.container2 .loginid1{
+    margin-left: 210px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .loginid2{
+    padding-left: 205px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .loginid3{
+    padding-left:143px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .title2{
+    color: red;
+    margin-top: 30px;
+    padding-right: 200px; 
+    padding: 10px;
+}
+.container2 .input2{
+    /* border: 2px solid black; */
+    
+
+}
+.container2 .input2 .aa{
+    padding-left: 136px;
+    font-weight: bold;
+    color: blue;
+ 
+}
+.container2 .input2 .bb{
+    padding-left: 123px;
+    font-weight: bold;
+    color: blue;
+    
+}
+.container2 .input2 .mm{
+    padding-left: 99px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .input2 #nn{
+    width: 100px;
+    text-align: center;
+    font-size: 14px;
+}
+.container2 .input2 #cc{
+    width: 140px;
+    font-size: 14px;
+    
+    
+
+}
+.container2 .input2 .dd{
+    padding-left: 143px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .input3{
+    padding-top: 2px;
+}
+.container2 .center{
+    display: flex;
+    justify-content: space-between;
+}
+.container2 .center .part2{
+   padding-top: 72px;
+    /* border: 2px solid red; */
+    padding-right: 30rem;
+}
+.container2 .center .part2 .qq{
+    margin-left: 40px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .center .part2 .ww{
+    margin-left: 42px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .center .part2 .ee{
+    padding-left: 60px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .input2 #pp{
+    font-size: 14px;
+}
+.container2 .center .part2 .rr{
+    margin-right:10px;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .bottom .title3{
+    color: red;
+    padding-top: 70px;
+    padding: 20px;
+    margin-right: 70px;
+}
+.container2 .bottom{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.container2 .bottom .tt{
+    font-weight: bold;
+    color: blue;
+    margin-left: 80px;
+}
+.container2 .bottom .ll{
+    margin-left: 45px;
+    font-weight: bold;
+    color: blue;
+    margin-left: 120px;
+}
+.container2 .input3 #bb{
+    width: 80px;
+    text-align: center;
+    font-size: 14px;
+}
+.container2 .bottom .bottom2{
+    padding-top: 40px;
+    padding-right: 30rem;
+    font-weight: bold;
+    color: blue;
+}
+.container2 .bottom-down .title4{
+    color: red;
+    margin-left: 20px;
+    margin-top: 34px;
+}
+.container2 .bottom-down .pere{
+    color: blue;
+    font-weight: bold;
+    padding-left: 20px;
+    
+}
+.container2 .button{
+    text-align: center;
+    padding-top: 30px;
+   
+
+}
+.container2 .btn1{
+  /* padding-left: 40rem; */
+  padding-top: 20px;
+  background-color: rgb(30, 175, 242);
+  color: white;
+  padding: 5px;
+  width: 5rem;
+  font-weight: bold;
+
+}
+.container2 .btn2{
+    background-color: rgb(30, 175, 242);
+    color: white;
+    padding: 5px;
+    width: 5rem;
+    font-weight: bold;
+}
+
+
+
+
+
+

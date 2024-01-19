@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Normal link styles */
+a {
+    color: #0066cc;
+    text-decoration: none;
+    transition: color 0.3s; /* Smooth transition for color changes */
+}
+
+/* Hovered link styles */
+a:hover {
+    color: #004080;
+}
+
+/* Visited link styles */
+a:visited {
+    color: #660099;
+}

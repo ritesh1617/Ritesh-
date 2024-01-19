@@ -1,0 +1,25 @@
+body{
+    background-color: green;
+}
+.title{
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+table{
+    text-align: center;
+    font-size: 20px;
+}
+.a{
+    background-color: green;
+    color: white;
+}
+.b{
+    background-color: red;
+    color: white;
+}
+.c{
+    background-color: black;
+    color: white;
+}
